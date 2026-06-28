@@ -1,4 +1,4 @@
-# 
+# Custom 7-Zip plugins for Mac OS | New 7-Zip plugins for PC Windows. Featuring cloud integration and event tracking — optimized for maximum performance on every platform.
 
 
 
